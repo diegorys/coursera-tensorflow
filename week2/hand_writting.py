@@ -3,7 +3,7 @@ import tensorflow as tf
 # DO NOT CHANGE THE LINE BELOW. If you are developing in a local
 # environment, then grab mnist.npz from the Coursera Jupyter Notebook
 # and place it inside a local folder and edit the path to that location
-path = "./mnist.npz"
+path = "../mnist.npz"
 # GRADED FUNCTION: train_mnist
 
 
