@@ -23,6 +23,9 @@
 
 ## Course 2. Convolutional Neural Networks in TensorFlow
 
+### Week 1
+1. Dogs vs. Cats
+
 ## Course 3. Natural Language Processing in TensorFlow
 
 ## Course 4. Sequences, Time Series and Prediction
