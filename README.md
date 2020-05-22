@@ -46,4 +46,9 @@
 1. Tokenizer
 2. Sarcasm
 
+## Week 2
+1. IMDB
+2. Sarcasm
+3. IMDB Subwords
+
 ## Course 4. Sequences, Time Series and Prediction
