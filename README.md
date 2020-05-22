@@ -52,3 +52,16 @@
 3. IMDB Subwords
 
 ## Course 4. Sequences, Time Series and Prediction
+
+### Week 1
+
+### Week 2
+
+### Week 3
+1. IMDB Subwords 8K with Single Layer LSTM
+2. IMDB Subwords 8K with Multi Layer LSTM
+3. IMDB Subwords 8K with 1D Convolutional Layer
+4. Sarcasm with Bidirectional LSTM
+5. Sarcasm with 1D Convolutional Layer
+6. IMDB Reviews with GRU (and optional LSTM and Conv1D)
+7. Exercise Week 3: Exploring overfitting in NLP
